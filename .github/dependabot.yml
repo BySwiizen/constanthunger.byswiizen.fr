@@ -5,8 +5,7 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
-      time: "04:00"
+      interval: "daily"
+      time: "05:00"
       timezone: Europe/Paris
-    reviewers:
-      - "BySwiizen"
+    open-pull-requests-limit: 5
