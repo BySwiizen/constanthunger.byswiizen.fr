@@ -9,6 +9,11 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 
+# Eclipse
+.classpath
+.project
+.settings/
+
 # PhpStorm
 .idea/
 *.iml
